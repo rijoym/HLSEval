@@ -1,6 +1,6 @@
 # HLSEval
 
-This repository contains the LLM prompts, HLSEval dataset and related scripts for the paper "Evaluating Large Language Models for Automatic Register Transfer Logic Generation via High-Level Synthesis", submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+This repository contains the LLM prompts, HLSEval dataset and related scripts for the paper "Evaluating Large Language Models for Automatic Register Transfer Logic Generation via High-Level Synthesis", submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. [https://arxiv.org/abs/2408.02793]
 
 The repository is organized as follows:
 
